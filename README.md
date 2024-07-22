@@ -7,9 +7,3 @@ Emotion detection in images and videos
 Support for multiple emotions
 
 Real-time processing for video streams
-
-Easy integration into other projects
-
-Pre-trained models for quick deployment
-
-Customizable model training for specific use cases
