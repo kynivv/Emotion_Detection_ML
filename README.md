@@ -1,5 +1,5 @@
-# Introduction #
-This project is an implementation of custom trained emotin detection model based on the FER_2013 dataset, along with the usage of haarcascades.
+# Overview #
+This project is an implementation of a custom-trained emotion detection model based on the FER 2013 dataset, along with the use of Haar Cascades.
 
 # Demo #
 ![Demo1 (2)](https://github.com/user-attachments/assets/9ff3208f-3017-4b8e-94ee-5ac4ad904c62)
